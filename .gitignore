@@ -1,0 +1,13 @@
+# Ignore PRACTICE folder (never push learning code)
+PRACTICE/
+
+# Ignore node modules
+node_modules/
+
+# Ignore temp files
+*.tmp
+*.log
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
